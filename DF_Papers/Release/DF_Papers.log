@@ -1,0 +1,7 @@
+﻿  SHA_256.cpp
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+D:\DFpaper\DF_Papers-5-22\DF_Papers\XD_PAPER.cpp(536): warning C4715: “temp_Sig_ver”: 不是所有的控件路径都返回值
+  All 1258 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DF_Papers.vcxproj -> D:\DFpaper\DF_Papers-5-22\Release\DF_Papers.exe
